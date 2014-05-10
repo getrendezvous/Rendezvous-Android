@@ -1,4 +1,6 @@
-package com.example.projectx_android;
+package com.rendezvous.app;
+
+import com.example.projectx_android.R;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
